@@ -1,1 +1,1 @@
-# Data-mining-and-decision-making-pattern-recognition
+# Data-mining-and-decision-making-Hand-gesture-recognition
